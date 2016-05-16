@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.shinji.space/"/>
-  <updated>2016-05-16T06:41:43.616Z</updated>
+  <updated>2016-05-16T06:54:16.893Z</updated>
   <id>http://www.shinji.space/</id>
   
   <author>
@@ -20,11 +20,10 @@
     <link href="http://www.shinji.space/2016/05/16/%E8%AF%B7%E5%8F%AB%E6%88%91%E8%8B%B1%E9%9B%84%EF%BC%9A%E5%BC%80%E7%AB%99%E4%B9%8B%E6%97%A5/"/>
     <id>http://www.shinji.space/2016/05/16/请叫我英雄：开站之日/</id>
     <published>2016-05-16T04:59:08.000Z</published>
-    <updated>2016-05-16T06:41:43.616Z</updated>
+    <updated>2016-05-16T06:54:16.893Z</updated>
     
     <content type="html">&lt;p&gt;
-  &lt;pre&gt;
-    &lt;br&gt;由于目前还在修改网站文件，很多东西还在研究和试验阶段。
+  &lt;pre&gt;由于目前还在修改网站文件，很多东西还在研究和试验阶段。
     &lt;br&gt;所以，先闲扯点东西吧。&lt;/pre&gt;
   &lt;br&gt;最近看到的一个日剧吧，灾难片，冲麻酱去的。&lt;/p&gt;
 &lt;h2 id=&quot;基本信息&quot;&gt;
@@ -79,12 +78,11 @@
     <summary type="html">
     
       &lt;p&gt;
-  &lt;pre&gt;
-    &lt;br&gt;由于目前还在修改网站文件，很多东西还在研究和试验阶段。
+  &lt;pre&gt;由于目前还在修改网站文件，很多东西还在研究和试验阶段。
     &lt;br&gt;所以，先闲扯点东西吧。&lt;/pre&gt;
   &lt;br&gt;最近看到的一个日剧吧，灾难片，冲麻酱去的。&lt;/p&gt;
 &lt;h2 id=&quot;基本信息&quot;&gt;
-  &lt;a href=&quot;#基本信息&quot; c
+  &lt;a href=&quot;#基本信息&quot; class=&quot;hea
     
     </summary>
     

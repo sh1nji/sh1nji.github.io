@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.shinji.space/"/>
-  <updated>2016-05-16T07:37:12.185Z</updated>
+  <updated>2016-05-16T07:41:59.473Z</updated>
   <id>http://www.shinji.space/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.shinji.space/2016/05/16/%E8%AF%B7%E5%8F%AB%E6%88%91%E8%8B%B1%E9%9B%84%EF%BC%9A%E5%BC%80%E7%AB%99%E4%B9%8B%E6%97%A5/"/>
     <id>http://www.shinji.space/2016/05/16/请叫我英雄：开站之日/</id>
     <published>2016-05-16T04:59:08.000Z</published>
-    <updated>2016-05-16T07:37:12.185Z</updated>
+    <updated>2016-05-16T07:41:59.473Z</updated>
     
     <content type="html">&lt;p&gt;
   &lt;pre&gt;由于目前还在修改网站文件，很多东西还在研究和试验阶段。
@@ -56,13 +56,12 @@
 &lt;h1 id=&quot;在线资源&quot;&gt;
   &lt;a href=&quot;#在线资源&quot; class=&quot;headerlink&quot; title=&quot;在线资源&quot;&gt;&lt;/a&gt;在线资源&lt;/h1&gt;
 &lt;p&gt;漫画入口 &lt;/p&gt;
-&lt;ul&gt;
+&lt;ol&gt;
   &lt;li&gt;
     &lt;a href=&quot;http://www.1kkk.com/manhua7663/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;极速漫画&lt;/a&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;视频入口__Bilibili &lt;/p&gt;
-&lt;ol&gt;
+    &lt;br&gt;
+    &lt;p&gt;
+      &lt;br&gt;视频入口__Bilibili &lt;/p&gt;&lt;/li&gt;
   &lt;li&gt;
     &lt;a href=&quot;http://www.bilibili.com/video/av4540121/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;增殖&lt;/a&gt;
   &lt;/li&gt;

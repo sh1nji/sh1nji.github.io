@@ -527,9 +527,10 @@
           });
         } else {
           var backgroundnum = 5;
-          var backgroundimg = "url(/background/bg-x.jpg)".replace(/x/gi,
-            Math.ceil(
-              Math.random() * backgroundnum));
+          // var backgroundimg = "url(/background/bg-x.jpg)".replace(/x/gi, Math.ceil(Math.random() * backgroundnum));
+          var backgroundimg =
+            "url(http://shinji-10041049.file.myqcloud.com/image/jpg/background/bg-x.jpg)"
+            .replace(/x/gi, Math.ceil(Math.random() * backgroundnum));
           $("body").css({
             "background": backgroundimg,
             "background-attachment": "fixed",
